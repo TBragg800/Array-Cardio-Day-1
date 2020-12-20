@@ -1,31 +1,23 @@
-# 
+# Array Cardio Day 1
 
 ##  Repository: 
-[](https://github.com/TBragg800/)
-
-##  Deployed:
-[](https://tbragg800.github.io//)
+[](https://github.com/TBragg800/Array-Cardio-Day-1)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/)
+![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/Array-Cardio-Day-1)
 
 ## Table of Contents
   [Description](#Description)
-
-  [Usage](#Usage)
 
   [License](#License)
 
   [Questions](#Questions)
   
 ## Description
-  This is an application of CSS Variables created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is . To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
+  This is an application of JavaScript array methods created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to gain more expierience with array methods and functional programming. To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
 
 ## Installation
   Simply clone the repo locally.
-
-## Usage
-  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [](https://tbragg800.github.io//)
 
 ## License
   MIT License
@@ -55,6 +47,4 @@ SOFTWARE.
   Email: tbbragg83@gmail.com
   Github: [TBragg800](http://github.com/TBragg800)
 
-## Screenshot of deployed application
-![](./assets/.png)
 
